@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @shisanzuyi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+shisanzuyi/shisanzuyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+It's really my great honour to take this interview. Thank you for giving the chance to me . and I hope I could make a good performance today. Now let me introduce myself please. My name is SuZhi,28yeas old，I graduated from FAFU, I majored in Electronic Science and Technology.
+
+I used to work for TPV and Nebula，My position is hardware engineer. As a hardware engineer, I design circuit, PCB Layout and so on.
